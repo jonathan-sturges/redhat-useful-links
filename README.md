@@ -1,81 +1,126 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Useful Red Hat links
 
-# Communicate using Markdown
+_An opinionated list of Red Hat documentation, blogs and support articles; a quick reference for common customer questions._
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+Please submit PRs for suggestions & corrections.  Thanks!
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+---
 
-## Step 1: Add headers
+## General
 
-_Welcome to "Communicate using Markdown"! :wave:_
-
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
-
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
-
-### Example
-
-```md
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-```
-
-#### How it looks
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-### :keyboard: Activity: Edit your file with headers
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+- [Roles and Permissions for Red Hat Customer Portal](https://access.redhat.com/articles/1757953)
+- [Simple Content Access](https://access.redhat.com/articles/simple-content-access)
+- [Simple Content Access - FAQ](https://access.redhat.com/articles/4903191)
+- [Common networking issues while accessing Red Hat Subscription Management (RHSM)](https://access.redhat.com/articles/4398051)
+- [Red Hat Cloud Access Frequently Asked Questions](https://access.redhat.com/articles/3664231)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Cyber
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- [Product Security Center](https://access.redhat.com/security/)
+- [Compliance Activities and Government Standards](https://access.redhat.com/articles/2918071)
+- [Red Hat CVE Database](https://access.redhat.com/security/security-updates/cve)
+- [Backporting Security Fixes](https://access.redhat.com/security/updates/backporting)
+- [Customizing SCAP Security Policies](https://access.redhat.com/articles/2381031)
+- [Product Signing Keys](https://access.redhat.com/security/team/key)
+- [Red Hat Product Security risk report 2022](https://www.redhat.com/en/resources/product-security-risk-report-2022)
+- [Security Data Feeds (OVAL, CSAF, etc)](https://access.redhat.com/security/data)
+- [Understanding Red Hat's Product Security Incident Response Plan](https://access.redhat.com/articles/2968471)
+
+---
+
+## Red Hat Enterprise Linux
+- [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
+- [Red Hat Enterprise Linux Application Compatibility Policies](https://access.redhat.com/solutions/5154)
+- [How can we update a disconnected or an air-gapped system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
+- [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361)
+- [Convert2RHEL FAQ (Frequently Asked Questions)](https://access.redhat.com/articles/5941531)
+- [How to perform an unsupported conversion from a RHEL-derived Linux distribution to RHEL](https://access.redhat.com/articles/2360841)
+- [Does Red Hat have any security hardening tool or guide?](https://access.redhat.com/solutions/25124)
+- [Migrating Your IDM Environment To a New Environment in RHEL 7](https://access.redhat.com/articles/2949931)
+- [How do I authenticate Red Hat Enterprise Linux to Active Directory using SSSD?](https://access.redhat.com/articles/704743)
+- [Manually Connecting an SSSD Client to an Active Directory Domain](https://access.redhat.com/articles/3023951)
+- [How to configure a RHEL system, acting as a CIFS client, to auto-mount the home directories of the AD users](https://access.redhat.com/articles/3771981)
+- [Smart-card support in RHEL 8 and later](https://access.redhat.com/articles/4253861)
+- [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
+- [Converting virtual machines from other hypervisors to KVM with virt-v2v in RHEL 7, RHEL 8, and RHEL 9](https://access.redhat.com/articles/1351473)
+- [Virtualization limits for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/rhel-kvm-limits)
+- [Red Hat Enterprise Linux virtualization (KVM/Libvirt) FAQ](https://access.redhat.com/articles/1344173)
+- [Basic SELinux Troubleshooting in CLI](https://access.redhat.com/articles/2191331)
+- [Exporting a virtual machine from VMware as an OVA file and importing it into KVM](https://access.redhat.com/articles/1351963)
+- [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
+- [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
+- [Creating a Local Repository and Sharing With Disconnected/Offline/Air-gapped Systems.](https://access.redhat.com/articles/7049204)
+- [How do I set up an up2date or yum repository from a locally-mounted DVD on Red Hat Enterprise Linux?](https://access.redhat.com/articles/329673)
+- [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
+- [How to create a modified Red Hat Enterprise Linux ISO with kickstart file or modified installation media?](https://access.redhat.com/solutions/60959)
+- [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/4665701)
+- [FAQ: Red Hat Enterprise Linux 7 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/7005471)
+- [How to generate tailoring file in oscap?](https://access.redhat.com/solutions/3641661)
+- [Red Hat Enterprise Linux Container Compatibility Matrix](https://access.redhat.com/support/policy/rhel-container-compatibility)
+
+---
+
+## Satellite
+- [Consolidated troubleshooting for Repository issues](https://access.redhat.com/articles/6444871)
+- [Consolidated troubleshooting for certificate issues](https://access.redhat.com/articles/6433461)
+- [Consolidated troubleshooting for installation/upgrade/update issues](https://access.redhat.com/articles/6418281)
+- [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
+- [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
+- [Supported architectures and kickstart scenarios in Satellite 6](https://access.redhat.com/solutions/2674001)
+- [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)
+- [Satellite 6.2 Inter-Satellite Sync](https://access.redhat.com/articles/2390791)
+- [REX pull mode blog](https://www.redhat.com/en/blog/red-hat-satellite-612-and-remote-execution-now-featuring-pull-mode)
+- [Automating host configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-host-configuration-red-hat-satellite-and-rhel-system-roles)
+- [Satellite Product lifecycle](https://access.redhat.com/support/policy/updates/satellite)
+- [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper)
+- [How to use Ansible as a deployment option to create OpenSCAP compliance policy in Red Hat Satellite 6](https://access.redhat.com/solutions/4557961)
+- [Managing artifacts with Red Hat Satellite and JFrog Artifactory](https://www.redhat.com/en/blog/managing-artifacts-red-hat-satellite-and-jfrog-artifactory)
+- [Adding an EPEL 8 repository to Red Hat Satellite 6](https://www.redhat.com/sysadmin/epel-8-repo-satellite-6)
+- [Does Red Hat Satellite 6 and Red Hat Satellite Capsule 6 support hardening?](https://access.redhat.com/solutions/3198782)
+- [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization, Red Hat OpenShift Virtualization and Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973163)
+
+---
+
+## Ansible
+- [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
+- [Subscription FAQ](https://access.redhat.com/articles/6057451)
+- [Ansible Automation Platform 2 Release FAQ](https://access.redhat.com/articles/6192881)
+- [Reference Architectures](https://access.redhat.com/documentation/pt-br/reference_architectures/2021/pdf/deploying_ansible_automation_platform_2.1/reference_architectures-2021-deploying_ansible_automation_platform_2.1-en-us.pdf)
+- [AAP 1.2 to 2.x migration guide](https://access.redhat.com/documentation/pt-br/reference_architectures/2022/pdf/ansible_automation_platform_1.2_to_2_migration_guide/reference_architectures-2022-ansible_automation_platform_1.2_to_2_migration_guide-en-us.pdf)
+- [Platform lifecycle dates](https://access.redhat.com/support/policy/updates/ansible-automation-platform)
+- [External database sizing](https://access.redhat.com/solutions/3166711)
+- [Red Hat Ansible Automation Platform Database Scope of Coverage](https://access.redhat.com/articles/4010491)
+- [Guidelines, Troubleshooting & recommended configurations for Ansible Tower](https://access.redhat.com/articles/3344101)
+- [Importing/Exporting Collections in automation hubs](https://access.redhat.com/articles/6987094)
+- [What are the Recommended Upgrade Paths for Ansible Tower/Ansible Automation Platform?](https://access.redhat.com/articles/4098921)
+
+---
+
+## OpenShift
+- [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
+- [OpenShift Container Platform (OCP) 4 upgrade paths](https://access.redhat.com/solutions/4583231)
+- [TLS configuration in OpenShift Container Platform](https://access.redhat.com/articles/5348961)
+- [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421)
+- [Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix](https://access.redhat.com/articles/6663461)
+- [Red Hat Advanced Cluster Security for Kubernetes Support Policy](https://access.redhat.com/support/policy/updates/rhacs)
+
+---
+
+## Miscellaneous
+- [Universal Base Images (UBI): Images, repositories, packages, and source code](https://access.redhat.com/articles/4238681)
+- [Red Hat Single Sign-On Supported Configurations](https://access.redhat.com/articles/2342861)
+- [Red Hat Middleware Subscriptions Bundles Overview](https://access.redhat.com/articles/3666991)
+
+<footer>
+
+---
+
+Last updated: 5-Mar-2024
 
 </footer>
