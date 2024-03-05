@@ -73,6 +73,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
 - [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
 - [Supported architectures and kickstart scenarios in Satellite 6](https://access.redhat.com/solutions/2674001)
+- [Hammer cheat sheet](https://access.redhat.com/articles/2258471)
 - [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)
 - [Satellite 6.2 Inter-Satellite Sync](https://access.redhat.com/articles/2390791)
 - [REX pull mode blog](https://www.redhat.com/en/blog/red-hat-satellite-612-and-remote-execution-now-featuring-pull-mode)
