@@ -63,6 +63,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [FAQ: Red Hat Enterprise Linux 7 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/7005471)
 - [How to generate tailoring file in oscap?](https://access.redhat.com/solutions/3641661)
 - [Red Hat Enterprise Linux Container Compatibility Matrix](https://access.redhat.com/support/policy/rhel-container-compatibility)
+- [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization, Red Hat OpenShift Virtualization and Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973163)
 
 ---
 
@@ -84,7 +85,6 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Managing artifacts with Red Hat Satellite and JFrog Artifactory](https://www.redhat.com/en/blog/managing-artifacts-red-hat-satellite-and-jfrog-artifactory)
 - [Adding an EPEL 8 repository to Red Hat Satellite 6](https://www.redhat.com/sysadmin/epel-8-repo-satellite-6)
 - [Does Red Hat Satellite 6 and Red Hat Satellite Capsule 6 support hardening?](https://access.redhat.com/solutions/3198782)
-- [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization, Red Hat OpenShift Virtualization and Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973163)
 
 ---
 
