@@ -15,8 +15,10 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Roles and Permissions for Red Hat Customer Portal](https://access.redhat.com/articles/1757953)
 - [Simple Content Access](https://access.redhat.com/articles/simple-content-access)
 - [Simple Content Access - FAQ](https://access.redhat.com/articles/4903191)
-- [Common networking issues while accessing Red Hat Subscription Management (RHSM)](https://access.redhat.com/articles/4398051)
 - [Red Hat Cloud Access Frequently Asked Questions](https://access.redhat.com/articles/3664231)
+- [Common networking issues while accessing Red Hat Subscription Management (RHSM)](https://access.redhat.com/articles/4398051)
+- [How to configure HTTP Proxy for Red Hat Subscription Management](https://access.redhat.com/solutions/57669)
+- [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 
 ---
 
