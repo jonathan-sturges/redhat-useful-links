@@ -102,6 +102,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Guidelines, Troubleshooting & recommended configurations for Ansible Tower](https://access.redhat.com/articles/3344101)
 - [Importing/Exporting Collections in automation hubs](https://access.redhat.com/articles/6987094)
 - [What are the Recommended Upgrade Paths for Ansible Tower/Ansible Automation Platform?](https://access.redhat.com/articles/4098921)
+- [How to change the SSL certificate used by Ansible Automation Platform?](https://access.redhat.com/solutions/3109871)
 
 ---
 
