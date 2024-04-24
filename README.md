@@ -66,6 +66,8 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to generate tailoring file in oscap?](https://access.redhat.com/solutions/3641661)
 - [Red Hat Enterprise Linux Container Compatibility Matrix](https://access.redhat.com/support/policy/rhel-container-compatibility)
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization, Red Hat OpenShift Virtualization and Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973163)
+- [How does Red Hat support scripting frameworks?](https://access.redhat.com/articles/369183)
+- [Red Hat support policy regarding third party packages in RHEL](https://access.redhat.com/articles/30739)
 
 ---
 
