@@ -92,6 +92,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to sync EPEL or any other third-party repositories in Red Hat Satellite 6?](https://access.redhat.com/solutions/2211261)
 - [Does Red Hat Satellite 6 and Red Hat Satellite Capsule 6 support hardening?](https://access.redhat.com/solutions/3198782)
 - [Is it possible to manage a PAYG On-Demand image with Satellite Server?](https://access.redhat.com/solutions/5962181)
+- [The /var/lib/pulp file system is growing faster in Red Hat Satellite 6](https://access.redhat.com/solutions/3180541)
 
 ---
 
