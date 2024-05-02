@@ -68,6 +68,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization, Red Hat OpenShift Virtualization and Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973163)
 - [How does Red Hat support scripting frameworks?](https://access.redhat.com/articles/369183)
 - [Red Hat support policy regarding third party packages in RHEL](https://access.redhat.com/articles/30739)
+- [Index of Performance Co-Pilot (PCP) articles, solutions, tutorials and white papers](https://access.redhat.com/articles/1145953)
 
 ---
 
