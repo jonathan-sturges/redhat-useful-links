@@ -89,6 +89,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to use Ansible as a deployment option to create OpenSCAP compliance policy in Red Hat Satellite 6](https://access.redhat.com/solutions/4557961)
 - [Managing artifacts with Red Hat Satellite and JFrog Artifactory](https://www.redhat.com/en/blog/managing-artifacts-red-hat-satellite-and-jfrog-artifactory)
 - [Adding an EPEL 8 repository to Red Hat Satellite 6](https://www.redhat.com/sysadmin/epel-8-repo-satellite-6)
+- [How to sync EPEL or any other third-party repositories in Red Hat Satellite 6?](https://access.redhat.com/solutions/2211261)
 - [Does Red Hat Satellite 6 and Red Hat Satellite Capsule 6 support hardening?](https://access.redhat.com/solutions/3198782)
 - [Is it possible to manage a PAYG On-Demand image with Satellite Server?](https://access.redhat.com/solutions/5962181)
 
