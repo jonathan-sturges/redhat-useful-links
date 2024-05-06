@@ -95,6 +95,8 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Is it possible to manage a PAYG On-Demand image with Satellite Server?](https://access.redhat.com/solutions/5962181)
 - [The /var/lib/pulp file system is growing faster in Red Hat Satellite 6](https://access.redhat.com/solutions/3180541)
 - [What repository consumes the most disk space under /var/lib/pulp on Satellite6?](https://access.redhat.com/solutions/7006345)
+- [Satellite - Transferring subscriptions to a different account](https://access.redhat.com/solutions/5928641)
+- [How can I use multiple manifests on a single Satellite server?](https://access.redhat.com/solutions/6986576)
 
 ---
 
