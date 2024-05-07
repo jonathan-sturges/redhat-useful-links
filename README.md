@@ -98,6 +98,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Satellite - Transferring subscriptions to a different account](https://access.redhat.com/solutions/5928641)
 - [How can I use multiple manifests on a single Satellite server?](https://access.redhat.com/solutions/6986576)
 - [How to reconfigure Satellite or Capsule after IP address change?](https://access.redhat.com/solutions/1358443)
+- [Impact of Disk Speed on Satellite 6 Operations](https://access.redhat.com/solutions/3397771)
 
 ---
 
