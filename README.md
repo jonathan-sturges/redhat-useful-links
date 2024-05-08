@@ -85,6 +85,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Hammer cheat sheet](https://access.redhat.com/articles/2258471)
 - [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)
 - [Satellite 6.2 Inter-Satellite Sync](https://access.redhat.com/articles/2390791)
+- [How to update a disconnected Red Hat Satellite Server](https://www.redhat.com/en/blog/how-update-disconnected-red-hat-satellite-server)
 - [REX pull mode blog](https://www.redhat.com/en/blog/red-hat-satellite-612-and-remote-execution-now-featuring-pull-mode)
 - [Automating host configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-host-configuration-red-hat-satellite-and-rhel-system-roles)
 - [Satellite Product lifecycle](https://access.redhat.com/support/policy/updates/satellite)
