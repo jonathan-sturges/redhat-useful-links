@@ -77,6 +77,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Consolidated troubleshooting for Repository issues](https://access.redhat.com/articles/6444871)
 - [Consolidated troubleshooting for certificate issues](https://access.redhat.com/articles/6433461)
 - [Consolidated troubleshooting for installation/upgrade/update issues](https://access.redhat.com/articles/6418281)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x LEAPP Issues](https://access.redhat.com/articles/6418141)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Pulp 3.0-related Issues](https://access.redhat.com/articles/6900691)
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
 - [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
@@ -100,6 +101,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How can I use multiple manifests on a single Satellite server?](https://access.redhat.com/solutions/6986576)
 - [How to reconfigure Satellite or Capsule after IP address change?](https://access.redhat.com/solutions/1358443)
 - [Impact of Disk Speed on Satellite 6 Operations](https://access.redhat.com/solutions/3397771)
+- [RHEL 7 to RHEL 8 LEAPP Upgrade Failing When Using Red Hat Satellite](https://access.redhat.com/solutions/5392811)
 
 ---
 
