@@ -74,11 +74,12 @@ Please submit PRs for suggestions & corrections.  Thanks!
 ---
 
 ## Satellite
+- [Consolidated troubleshooting for installation/upgrade/update issues](https://access.redhat.com/articles/6418281)
 - [Consolidated troubleshooting for Repository issues](https://access.redhat.com/articles/6444871)
 - [Consolidated troubleshooting for certificate issues](https://access.redhat.com/articles/6433461)
-- [Consolidated troubleshooting for installation/upgrade/update issues](https://access.redhat.com/articles/6418281)
-- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x LEAPP Issues](https://access.redhat.com/articles/6418141)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Pulp 3.0-related Issues](https://access.redhat.com/articles/6900691)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Content View Issues](https://access.redhat.com/articles/6454191)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x LEAPP Issues](https://access.redhat.com/articles/6418141)
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
 - [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
 - [Supported architectures and kickstart scenarios in Satellite 6](https://access.redhat.com/solutions/2674001)
