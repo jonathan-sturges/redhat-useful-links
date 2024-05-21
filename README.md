@@ -27,6 +27,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Product Security Center](https://access.redhat.com/security/)
 - [Compliance Activities and Government Standards](https://access.redhat.com/articles/2918071)
 - [Red Hat CVE Database](https://access.redhat.com/security/security-updates/cve)
+- [Understanding Red Hat security ratings](https://access.redhat.com/security/updates/classification/)
 - [Backporting Security Fixes](https://access.redhat.com/security/updates/backporting)
 - [Customizing SCAP Security Policies](https://access.redhat.com/articles/2381031)
 - [Product Signing Keys](https://access.redhat.com/security/team/key)
@@ -79,6 +80,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Consolidated troubleshooting for certificate issues](https://access.redhat.com/articles/6433461)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Pulp 3.0-related Issues](https://access.redhat.com/articles/6900691)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Content View Issues](https://access.redhat.com/articles/6454191)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Authentication Issues](https://access.redhat.com/articles/6628491)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x LEAPP Issues](https://access.redhat.com/articles/6418141)
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
 - [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
@@ -104,6 +106,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to reconfigure Satellite or Capsule after IP address change?](https://access.redhat.com/solutions/1358443)
 - [Impact of Disk Speed on Satellite 6 Operations](https://access.redhat.com/solutions/3397771)
 - [RHEL 7 to RHEL 8 LEAPP Upgrade Failing When Using Red Hat Satellite](https://access.redhat.com/solutions/5392811)
+- [How to configure Active Directory authentication with TLS on Red Hat Satellite 6?](https://access.redhat.com/solutions/1498773)
 
 ---
 
