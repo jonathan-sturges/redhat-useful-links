@@ -140,6 +140,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Universal Base Images (UBI): Images, repositories, packages, and source code](https://access.redhat.com/articles/4238681)
 - [Red Hat Single Sign-On Supported Configurations](https://access.redhat.com/articles/2342861)
 - [Red Hat Middleware Subscriptions Bundles Overview](https://access.redhat.com/articles/3666991)
+- [OpenJDK Life Cycle and Support Policy](https://access.redhat.com/articles/1299013)
 
 <footer>
 
