@@ -20,7 +20,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to configure HTTP Proxy for Red Hat Subscription Management](https://access.redhat.com/solutions/57669)
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 - [Initial investigation for any performance issue](https://access.redhat.com/articles/1162133)
-- [Product Life Cycles](https://mimir.corp.redhat.com/product-life-cycles/update_policies/)
+- [Product Life Cycles](https://access.redhat.com/product-life-cycles/update_policies/)
 
 ---
 
@@ -59,6 +59,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Virtualization limits for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/rhel-kvm-limits)
 - [Red Hat Enterprise Linux virtualization (KVM/Libvirt) FAQ](https://access.redhat.com/articles/1344173)
 - [Basic SELinux Troubleshooting in CLI](https://access.redhat.com/articles/2191331)
+- [Quick start to write a custom SELinux policy](https://access.redhat.com/articles/6999267)
 - [Exporting a virtual machine from VMware as an OVA file and importing it into KVM](https://access.redhat.com/articles/1351963)
 - [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
 - [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
