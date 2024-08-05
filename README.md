@@ -36,6 +36,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Red Hat Product Security risk report 2022](https://www.redhat.com/en/resources/product-security-risk-report-2022)
 - [Security Data Feeds (OVAL, CSAF, etc)](https://access.redhat.com/security/data)
 - [Understanding Red Hat's Product Security Incident Response Plan](https://access.redhat.com/articles/2968471)
+- [Red Hat Security Declaration - Secure Software Development Life Cycle](https://access.redhat.com/security/rh_security_declaration_sdl)
 
 ---
 
@@ -60,6 +61,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Red Hat Enterprise Linux virtualization (KVM/Libvirt) FAQ](https://access.redhat.com/articles/1344173)
 - [Basic SELinux Troubleshooting in CLI](https://access.redhat.com/articles/2191331)
 - [Quick start to write a custom SELinux policy](https://access.redhat.com/articles/6999267)
+- [How to whitelist applications using fapolicyd in RHEL ?](https://access.redhat.com/solutions/7060062)
 - [Exporting a virtual machine from VMware as an OVA file and importing it into KVM](https://access.redhat.com/articles/1351963)
 - [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
 - [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
@@ -75,6 +77,8 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How does Red Hat support scripting frameworks?](https://access.redhat.com/articles/369183)
 - [Red Hat support policy regarding third party packages in RHEL](https://access.redhat.com/articles/30739)
 - [Index of Performance Co-Pilot (PCP) articles, solutions, tutorials and white papers](https://access.redhat.com/articles/1145953)
+- [How to test network bandwidth? (iperf3 qperf netcat nc ttcp)](https://access.redhat.com/solutions/33103)
+- [How to register AWS EC2 instance to Red Hat Satellite 6 or Red Hat Customer Portal](https://access.redhat.com/solutions/3626061)
 
 ---
 
@@ -82,6 +86,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Consolidated troubleshooting for installation/upgrade/update issues](https://access.redhat.com/articles/6418281)
 - [Consolidated troubleshooting for Repository issues](https://access.redhat.com/articles/6444871)
 - [Consolidated troubleshooting for certificate issues](https://access.redhat.com/articles/6433461)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Manifest Issues](https://access.redhat.com/articles/6444671)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Pulp 3.0-related Issues](https://access.redhat.com/articles/6900691)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Content View Issues](https://access.redhat.com/articles/6454191)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Authentication Issues](https://access.redhat.com/articles/6628491)
@@ -111,6 +116,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Impact of Disk Speed on Satellite 6 Operations](https://access.redhat.com/solutions/3397771)
 - [RHEL 7 to RHEL 8 LEAPP Upgrade Failing When Using Red Hat Satellite](https://access.redhat.com/solutions/5392811)
 - [How to configure Active Directory authentication with TLS on Red Hat Satellite 6?](https://access.redhat.com/solutions/1498773)
+- [Satellite 6.3 Feature Overview: Tailoring Files](https://access.redhat.com/articles/3358971)
 
 ---
 
@@ -135,6 +141,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [OpenShift Container Platform (OCP) 4 upgrade paths](https://access.redhat.com/solutions/4583231)
 - [TLS configuration in OpenShift Container Platform](https://access.redhat.com/articles/5348961)
 - [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421)
+- [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
 - [Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix](https://access.redhat.com/articles/6663461)
 - [Red Hat Advanced Cluster Security for Kubernetes Support Policy](https://access.redhat.com/support/policy/updates/rhacs)
 
