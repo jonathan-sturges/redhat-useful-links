@@ -63,6 +63,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Basic SELinux Troubleshooting in CLI](https://access.redhat.com/articles/2191331)
 - [Quick start to write a custom SELinux policy](https://access.redhat.com/articles/6999267)
 - [How to whitelist applications using fapolicyd in RHEL ?](https://access.redhat.com/solutions/7060062)
+- [How can I make RHEL FIPS compliant?](https://access.redhat.com/solutions/137833)
 - [Exporting a virtual machine from VMware as an OVA file and importing it into KVM](https://access.redhat.com/articles/1351963)
 - [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
 - [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
@@ -80,6 +81,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Index of Performance Co-Pilot (PCP) articles, solutions, tutorials and white papers](https://access.redhat.com/articles/1145953)
 - [How to test network bandwidth? (iperf3 qperf netcat nc ttcp)](https://access.redhat.com/solutions/33103)
 - [How to register AWS EC2 instance to Red Hat Satellite 6 or Red Hat Customer Portal](https://access.redhat.com/solutions/3626061)
+- [What is LUKS ( Linux Unified Key Setup) disk encryption and how can it be implemented?](https://access.redhat.com/solutions/100463)
 
 ---
 
@@ -146,6 +148,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
 - [Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix](https://access.redhat.com/articles/6663461)
 - [Red Hat Advanced Cluster Security for Kubernetes Support Policy](https://access.redhat.com/support/policy/updates/rhacs)
+- [General FAQ for OpenShift and FIPS compliance](https://access.redhat.com/articles/openshift_fips_compliance_faq)
 
 ---
 
@@ -154,6 +157,9 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Red Hat Single Sign-On Supported Configurations](https://access.redhat.com/articles/2342861)
 - [Red Hat Middleware Subscriptions Bundles Overview](https://access.redhat.com/articles/3666991)
 - [OpenJDK Life Cycle and Support Policy](https://access.redhat.com/articles/1299013)
+- [Red Hat JBoss Enterprise Application Platform (EAP) 8 Supported Configurations](https://access.redhat.com/articles/6961381)
+- [JBoss Enterprise Application Platform Component Details](https://access.redhat.com/articles/112673)
+- [Red Hat build of Keycloak Supported Configurations](https://access.redhat.com/articles/7033107)
 
 <footer>
 
