@@ -82,6 +82,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [How to test network bandwidth? (iperf3 qperf netcat nc ttcp)](https://access.redhat.com/solutions/33103)
 - [How to register AWS EC2 instance to Red Hat Satellite 6 or Red Hat Customer Portal](https://access.redhat.com/solutions/3626061)
 - [What is LUKS ( Linux Unified Key Setup) disk encryption and how can it be implemented?](https://access.redhat.com/solutions/100463)
+- [How to boot a system into rescue mode](https://access.redhat.com/solutions/770703)
 
 ---
 
