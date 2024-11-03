@@ -149,6 +149,8 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix](https://access.redhat.com/articles/6663461)
 - [Red Hat Advanced Cluster Security for Kubernetes Support Policy](https://access.redhat.com/support/policy/updates/rhacs)
 - [General FAQ for OpenShift and FIPS compliance](https://access.redhat.com/articles/openshift_fips_compliance_faq)
+- [Red Hat OpenShift Virtualization disaster recovery guide](https://access.redhat.com/articles/7041594)
+- [OpenShift APIs for Data Protection (OADP) FAQ](https://access.redhat.com/articles/5456281)
 
 ---
 
