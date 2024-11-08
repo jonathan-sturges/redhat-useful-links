@@ -42,6 +42,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 ---
 
 ## Red Hat Enterprise Linux
+- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078)
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux Application Compatibility Policies](https://access.redhat.com/solutions/5154)
 - [How can we update a disconnected or an air-gapped system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
