@@ -144,6 +144,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 ## OpenShift
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 - [OpenShift Container Platform (OCP) 4 upgrade paths](https://access.redhat.com/solutions/4583231)
+- [RHEL Versions Utilized by RHEL CoreOS and OCP](https://access.redhat.com/articles/6907891)
 - [TLS configuration in OpenShift Container Platform](https://access.redhat.com/articles/5348961)
 - [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421)
 - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
