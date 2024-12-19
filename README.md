@@ -31,6 +31,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Compliance Activities and Government Standards](https://access.redhat.com/articles/2918071)
 - [Red Hat CVE Database](https://access.redhat.com/security/security-updates/cve)
 - [Understanding Red Hat security ratings](https://access.redhat.com/security/updates/classification/)
+- [Tutorial on how to process vulnerability scans](https://access.redhat.com/articles/red_hat_vulnerability_tutorial)
 - [Backporting Security Fixes](https://access.redhat.com/security/updates/backporting)
 - [Customizing SCAP Security Policies](https://access.redhat.com/articles/2381031)
 - [Product Signing Keys](https://access.redhat.com/security/team/key)
