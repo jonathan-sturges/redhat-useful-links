@@ -22,6 +22,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Public CIDR Lists for Red Hat (IP Addresses for cdn.redhat.com)](https://access.redhat.com/articles/1525183)
 - [Initial investigation for any performance issue](https://access.redhat.com/articles/1162133)
 - [Product Life Cycles](https://access.redhat.com/product-life-cycles/update_policies/)
+- [Does End Of Life of OpenSSL affect Red Hat products?](https://access.redhat.com/solutions/1530413)
 
 ---
 
