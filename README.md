@@ -96,6 +96,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Pulp 3.0-related Issues](https://access.redhat.com/articles/6900691)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Content View Issues](https://access.redhat.com/articles/6454191)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Authentication Issues](https://access.redhat.com/articles/6628491)
+- [Consolidated Troubleshooting Article for Red Hat Satellite 6.x Remote Execution Issues](https://access.redhat.com/articles/6384531)
 - [Consolidated Troubleshooting Article for Red Hat Satellite 6.x LEAPP Issues](https://access.redhat.com/articles/6418141)
 - [Understanding Red Hat Content Delivery Network Repositories and their usage with Satellite 6](https://access.redhat.com/articles/1586183)
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
