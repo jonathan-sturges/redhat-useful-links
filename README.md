@@ -40,6 +40,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Security Data Feeds (OVAL, CSAF, etc)](https://access.redhat.com/security/data)
 - [Understanding Red Hat's Product Security Incident Response Plan](https://access.redhat.com/articles/2968471)
 - [Red Hat Security Declaration - Secure Software Development Life Cycle](https://access.redhat.com/security/rh_security_declaration_sdl)
+- [Kernel Live Patch life cycles](https://access.redhat.com/articles/4499631)
 
 ---
 
