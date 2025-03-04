@@ -102,6 +102,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Understanding Red Hat Content Delivery Network Repositories and their usage with Satellite 6](https://access.redhat.com/articles/1586183)
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
 - [Common manifest upload, update and refresh issues observed in Red Hat Satellite 6](https://access.redhat.com/articles/4852111)
+- [High Availability with Red Hat Satellite 6.11+](https://access.redhat.com/solutions/3402361)
 - [Supported architectures and kickstart scenarios in Satellite 6](https://access.redhat.com/solutions/2674001)
 - [Hammer cheat sheet](https://access.redhat.com/articles/2258471)
 - [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)
