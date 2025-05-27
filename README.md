@@ -13,6 +13,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 ## General
 
 - [Roles and Permissions for Red Hat Customer Portal](https://access.redhat.com/articles/1757953)
+- [Common User Management Questions](https://access.redhat.com/articles/customer-service-users)
 - [Simple Content Access](https://access.redhat.com/articles/simple-content-access)
 - [Simple Content Access - FAQ](https://access.redhat.com/articles/4903191)
 - [Red Hat Cloud Access Frequently Asked Questions](https://access.redhat.com/articles/3664231)
