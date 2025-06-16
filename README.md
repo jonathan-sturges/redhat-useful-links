@@ -156,6 +156,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [TLS configuration in OpenShift Container Platform](https://access.redhat.com/articles/5348961)
 - [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421)
 - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
+- [OpenShift Virtualization - Tuning & Scaling Guide](https://access.redhat.com/articles/6994974)
 - [Red Hat Advanced Cluster Management for Kubernetes 2.12 Support Matrix](https://access.redhat.com/articles/7086905)
 - [Red Hat Advanced Cluster Security for Kubernetes Support Policy](https://access.redhat.com/support/policy/updates/rhacs)
 - [General FAQ for OpenShift and FIPS compliance](https://access.redhat.com/articles/openshift_fips_compliance_faq)
