@@ -12,6 +12,8 @@ Please submit PRs for suggestions & corrections.  Thanks!
 
 ## General
 
+- [Production Support Terms of Service](https://access.redhat.com/support/offerings/production/sla)
+- [Red Hat Support Severity Level Definitions](https://access.redhat.com/support/policy/severity)
 - [Answers to Common Subscription Questions](https://access.redhat.com/articles/customer-service-subscriptions)
 - [Roles and Permissions for Red Hat Customer Portal](https://access.redhat.com/articles/1757953)
 - [Common User Management Questions](https://access.redhat.com/articles/customer-service-users)
