@@ -54,6 +54,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux Application Compatibility Policies](https://access.redhat.com/solutions/5154)
 - [Red Hat Enterprise Linux Technology Capabilities and Limits](https://access.redhat.com/articles/rhel-limits)
+- [Red Hat Enterprise Linux Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel-app-streams-life-cycle)
 - [Red Hat Enterprise Linux cheat sheets for system administrators](https://access.redhat.com/articles/rhel-cheatsheets)
 - [How can we update a disconnected or an air-gapped system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 - [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361)
