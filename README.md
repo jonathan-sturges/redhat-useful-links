@@ -27,6 +27,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Initial investigation for any performance issue](https://access.redhat.com/articles/1162133)
 - [Product Life Cycles](https://access.redhat.com/product-life-cycles/update_policies/)
 - [Does End Of Life of OpenSSL affect Red Hat products?](https://access.redhat.com/solutions/1530413)
+- [The Request for Feature Enhancement (RFE) Process for Red Hat product suite](https://access.redhat.com/solutions/73513)
 
 ---
 
