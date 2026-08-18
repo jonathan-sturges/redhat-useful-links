@@ -82,6 +82,7 @@ Please submit PRs for suggestions & corrections.  Thanks!
 - [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
 - [Creating a Local Repository and Sharing With Disconnected/Offline/Air-gapped Systems.](https://access.redhat.com/articles/7049204)
 - [How do I set up an up2date or yum repository from a locally-mounted DVD on Red Hat Enterprise Linux?](https://access.redhat.com/articles/329673)
+- [How to create and host a local yum repository using HTTP/HTTPS ?](https://access.redhat.com/solutions/3418871)
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
 - [How to create a modified Red Hat Enterprise Linux ISO with kickstart file or modified installation media?](https://access.redhat.com/solutions/60959)
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/4665701)
